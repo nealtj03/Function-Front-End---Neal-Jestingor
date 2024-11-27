@@ -83,6 +83,8 @@ function getWithdrawals() public view returns (Transaction[] memory) {
     return withdrawals;
 }
 ```
+
+### EXECUTING THE PROGRAM
 Do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
@@ -93,3 +95,11 @@ Do the following to get the code running on your computer.
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+
+### Author:
+Neal Tracy D. Jestingor | 202111095@fit.edu.ph
+
+### License
+This project is licensed under the MIT License.
+
